@@ -37,6 +37,7 @@ Google Colab
 
 📈 Results
 
-| Model               | Accuracy | Precision | Recall | F1 Score |
-| ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | xx%      | xx%       | xx%    | xx%      |
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| Non-Fraud  | 1.00   | 0.97 | 0.99     | 56,864  |
+| Fraud      | 0.06   | 0.92 | 0.11     | 98      |
