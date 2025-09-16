@@ -21,3 +21,22 @@
    Features:
          31 total features: 28 anonymized principal components (V1 to V28), Time, Amount, and Class
          Class: 0 = Non-fraud, 1 = Fraud
+
+
+⚙️ Technologies Used
+
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Matplotlib, Seaborn
+
+Google Colab
+
+📈 Results
+
+| Model               | Accuracy | Precision | Recall | F1 Score |
+| ------------------- | -------- | --------- | ------ | -------- |
+| Logistic Regression | xx%      | xx%       | xx%    | xx%      |
