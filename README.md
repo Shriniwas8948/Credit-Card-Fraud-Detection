@@ -16,10 +16,8 @@
 
 📁 Dataset
 
-     Source: Kaggle - Credit Card Fraud Detection
+   Source: Kaggle - Credit Card Fraud Detection
 
-     Features:
-
-          31 total features: 28 anonymized principal components (V1 to V28), Time, Amount, and Class
-
-          Class: 0 = Non-fraud, 1 = Fraud
+   Features:
+         31 total features: 28 anonymized principal components (V1 to V28), Time, Amount, and Class
+         Class: 0 = Non-fraud, 1 = Fraud
